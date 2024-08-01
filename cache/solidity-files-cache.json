@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ubong\\Documents\\projects\\web3\\solidity\\nft-count\\contracts\\NftCount.sol": {
+      "lastModificationDate": 1722504717128,
+      "contentHash": "4fdc9c063a4f74b26971b5f95e5cf8fe",
+      "sourceName": "contracts/NftCount.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "NftCount"
+      ]
+    }
+  }
+}
